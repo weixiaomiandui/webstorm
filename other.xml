@@ -1,0 +1,25 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="D:/node.exe">
+      <version-cache version="6.10.0" last-modified="1487695168000" />
+      <npm-package value="D:/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="RecentTaskRepositories">
+    <JIRA shared="true" url="https://jira.famulei.com">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id}：{summary}</commitMessageFormat>
+      <password>dfc9dfcbdfc5dfd3dfcbdfc8dfcfdfc3</password>
+      <option name="inCloud" value="false" />
+      <option name="jiraVersion" value="7.2.2" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>caoyabei</username>
+    </JIRA>
+  </component>
+</application>
