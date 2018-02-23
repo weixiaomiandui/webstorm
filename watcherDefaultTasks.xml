@@ -58,7 +58,7 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="$FileNameWithoutAllExtensions$$FileName$ -o .min.js" />
+      <option name="arguments" value="$FileName$ -o $FileNameWithoutAllExtensions$.min.js" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
