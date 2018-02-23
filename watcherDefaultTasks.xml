@@ -14,7 +14,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="$USER_HOME$/AppData/Roaming/npm/stylus.cmd" />
-      <option name="scopeName" value="pages" />
+      <option name="scopeName" value="stylus" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
       <envs />
@@ -51,8 +51,8 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="" />
-      <option name="scopeName" value="active" />
+      <option name="program" value="$USER_HOME$/AppData/Roaming/npm/uglifyjs.cmd" />
+      <option name="scopeName" value="dev.js" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
       <envs />
