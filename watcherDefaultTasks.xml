@@ -65,7 +65,7 @@
       <option name="fileExtension" value="js" />
       <option name="immediateSync" value="true" />
       <option name="name" value="dev.js" />
-      <option name="output" value="$FileNameWithoutAllExtensions$" />
+      <option name="output" value="$FileNameWithoutExtension$" />
       <option name="outputFilters">
         <array />
       </option>
