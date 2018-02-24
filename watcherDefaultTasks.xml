@@ -65,7 +65,7 @@
       <option name="fileExtension" value="js" />
       <option name="immediateSync" value="true" />
       <option name="name" value="dev.js" />
-      <option name="output" value="$FileNameWithoutExtension$.min.js$FileNameWithoutAllExtensions$" />
+      <option name="output" value="$FileNameWithoutExtension$.min.js" />
       <option name="outputFilters">
         <array />
       </option>
@@ -77,14 +77,14 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="$FileName$ -o $FileNameWithoutAllExtensions$.css" />
+      <option name="arguments" value="$FileName$ -o $FileNameWithoutExtension$.min.css" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="css" />
       <option name="immediateSync" value="true" />
       <option name="name" value="YUI Compressor CSS" />
-      <option name="output" value="$FileNameWithoutAllExtensions$.min.css" />
+      <option name="output" value="$FileNameWithoutExtension$.min.css" />
       <option name="outputFilters">
         <array />
       </option>
